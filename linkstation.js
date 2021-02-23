@@ -1,4 +1,5 @@
-
+"use strict";
+exports.__esModule = true;
 // Variable to hold given point[x,y]
 var cordinates;
 cordinates = [

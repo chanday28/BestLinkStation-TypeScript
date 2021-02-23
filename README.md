@@ -1,4 +1,3 @@
-# BestLinkStation-TypeScript
 ## Pre-requiste Software:
 1. Visual Studio Code
 2. Install TypeScript as an NPM package on your local machine or in your project. 
@@ -18,3 +17,7 @@
 2. Run `tsc linkstation.ts` to compile TypeScript
 
 3. Run `node linkstation`  to see output
+
+
+
+
