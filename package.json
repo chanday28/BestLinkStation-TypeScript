@@ -1,0 +1,23 @@
+{
+  "name": "ncs-tech-assignment",
+  "version": "1.0.0",
+  "description": "1. Install Node.js from http://nodejs.org",
+  "main": "linkstation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanday28/NCS-tech-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanday28/NCS-tech-assignment/issues"
+  },
+  "homepage": "https://github.com/chanday28/NCS-tech-assignment#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
